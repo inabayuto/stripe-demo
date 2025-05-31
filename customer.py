@@ -1,4 +1,3 @@
-# customer.py
 import stripe
 from stripe import Customer
 
