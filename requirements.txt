@@ -5,5 +5,5 @@ matplotlib==3.10.0
 seaborn==0.13.2            
 scikit-learn==1.6.1       
 tqdm==4.67.1    
-stripe
-dotenv
+stripe==12.2.0
+dotenv==0.9.9
